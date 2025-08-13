@@ -74,6 +74,17 @@ p {
     align-items: flex-start;
 }
 
+.coupon {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-style: dashed;
+    border-width: 3px;
+    box-sizing: border-box;
+    width: 500px;
+    height: 250px;
+    margin: 0 auto;
+    margin-bottom: 25px;
+}
+
 .footer {
     position:absolute;
     top:0;
